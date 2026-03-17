@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/reze-update/setup.exe/releases/download/v.0.4.0/AVDManager-Setup-0.4.0.exe",
-  "sha256": "1c654412c022b7a06ef8aaec3897ac691081f7d831d890878193ad1b6787969a",
-  "notes": ""
+    "version":  "0.5.0",
+    "url":  "https://github.com/reze-apps/setup.exe/releases/download/v0.5.0/AVDManager-Setup-0.5.0.exe",
+    "sha256":  "0fca605b2853be83cc6810055a30e989186f055b0f9a9e28ea75c35dbfe51017",
+    "notes":  "v0.5.0"
 }
